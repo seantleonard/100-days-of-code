@@ -1,10 +1,9 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Sean Leonard
 
 The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
+Started day 1 with the MSDOCs WordCounter Library . Using Visual Studio 2019
 ### R1D2

@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: April 2, 2019 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Followed 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The hardest part is getting started. Built a Library in .NET CORE 2.2
+Built a unit testing project for the libary using xUnit testing tool.
+Two Types of Tests: 
+[Theory] 
+Theory allows you to pass a data source into your unit testing function. Each line of the data source runs through the function, so the function runs for as many lines of data you pass. 
+Def: Theories are test which are only true for a particular set of data. 
+[Fact]
+Fact allows you to assert the return value of functions. Basic assertions are Assert.True
+Assert.IsEqual, Assert.IsNotEqual
+Def:Facts are tests which are always true. They test invariant conditions. Invariant:  a condition that can be relied upon to be true during the execution of a program. "Never changing"
+**Resources:** WordCounter Library, Console App, Unit Tests per [Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/tutorials/using-on-mac-vs-full-solution)
+**Link to work:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
