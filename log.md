@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
+### Day 2: April 3, 2019 
 
+**Today's Progress**: Continue Coding
+## SignalR Tutorial [Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr?view=aspnetcore-2.2&tabs=visual-studio-mac)
+Issue running libman. Which can be fixed by create a link in my path [GitHub Issue](https://github.com/aspnet/LibraryManager/issues/367)
+TL;DR
+
+```bash 
+ln -s ~/.dotnet/tools/libman /usr/local/bin/libman
+```
+* make links between files: [SuperUser](https://superuser.com/questions/606308/how-do-i-create-a-terminal-shortcut-to-this-path) | 
+[Die.net](https://linux.die.net/man/1/ln)
+* create codeblocks in Markdown , language list: [CodebaseHQ](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown)
+
+Crash course in Web App with SignalR. Done in Javascript. 
 ### Day 1: April 2, 2019 
 
 **Today's Progress**: Started Coding
