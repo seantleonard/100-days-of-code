@@ -26,3 +26,29 @@ transform: translate(-50%, -50%);
 translate x and y. The 50% are no longer in relation to the parent element but to the element itself. If we want -50%, it will be shifted half of the width to the left side. same for the height. -50% means it will be shifted 50% of the element's height to the top. if transform property has value other than none, a stacking context will be created, so that the transform does not affect other elements on the page. 
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+
+2.8: Creating Cool CSS Animations
+
+Two types of css animations
+transition property
+
+Keyframes:
+@keyframe <name> {
+    and now you specify what happens in each moment of the animation. 
+}
+translateX animates in the x direction from left to right. If the px or % is positive, then the element will animate from right to left as you think of a number line in the x axis. If the px or % is negative, then the element will animate from left to right. 
+translateY animates in the y direction from top to bottom.
+
+translate(0) looks the way that it looks originally. 
+
+You have to specify the animation-name and then the animation-duration in the element you want to animate. 
+
+You can also set animation-delay. But that doesn't look good here. Could be useful sometimes. 
+
+Animation-iteration-count: X. set to value, and the animation will happen X times. 
+
+Animation-timing-function: ease
+https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function
+
+animation: name duration timing-function delay iteration-count direction fill-mode play-state;
+https://www.w3schools.com/cssref/css3_pr_animation.asp
